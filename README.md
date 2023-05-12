@@ -43,9 +43,9 @@ When you run the program, you will see a GUI with several input fields and butto
 and the result of the algroithm in the "result" frame.
 
 
-![GUI1 Screenshot](Gui1.png)
+![GUI1 Screenshot](Gui1.PNG)
 ![GUI2 Screenshot](Gui2.png)
-![GUI3 Screenshot](Gui3.png)
+![GUI3 Screenshot](Gui3.PNG)
 
 ## Contributing
 
