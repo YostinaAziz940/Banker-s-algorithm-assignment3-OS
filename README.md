@@ -33,15 +33,19 @@ python Banker-s-algorithm-assignment3-OS.py
 When you run the program, you will see a GUI with several input fields and buttons. Here's how to use it:
 
 1. Enter the number of processes in the appropriate field and click submit.
-2. Add the total resource matrix.
-3. Add the allocation matrix.
-4. Add the maximum need matrix.
-5. Enter the process id 
-6. Add the request matrix
-7. Click the "Submit" button to run the Banker's Algorithm and see the matrices in the "matrices" tab view, the steps of the algorithm in "steps" tab view
-and the result of the algroithm in the "result" tab view.
+2. for each matrix you will enter # of rows and # of columns in its input dialog "set m * n",then a message will appear to tell you how to enter the matrix elements 
+3. Add the total resource matrix.
+4. Add the allocation matrix.
+5. Add the maximum need matrix.
+6. Enter the process id 
+7. Add the request matrix
+8. Click the "Submit" button to run the Banker's Algorithm and see the matrices in the "matrices" tab view, the steps of the algorithm in "steps" frame
+and the result of the algroithm in the "result" frame.
 
-![GUI Screenshot](gui_screenshot.png)
+
+![GUI1 Screenshot](gui1_screenshot.png)
+![GUI2 Screenshot](gui2_screenshot.png)
+![GUI3 Screenshot](gui2_screenshot.png)
 
 ## Contributing
 
